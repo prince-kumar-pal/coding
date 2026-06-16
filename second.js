@@ -61,7 +61,7 @@
 
 
 
-const colour = "blue";
+const colour = "purple";
 switch (colour) {
     case "red" :
         console.log("stop");
